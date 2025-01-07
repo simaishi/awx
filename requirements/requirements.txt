@@ -268,7 +268,7 @@ msal==1.31.1
     #   msal-extensions
 msal-extensions==1.2.0
     # via azure-identity
-msgpack==1.0.5
+msgpack==1.1.0
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   channels-redis
@@ -522,7 +522,7 @@ zope-interface==7.2
 # The following packages are considered to be unsafe in a requirements file:
 pip==21.2.4
     # via -r /awx_devel/requirements/requirements.in
-setuptools==75.6.0
+setuptools==72.1.0
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   asciichartpy
